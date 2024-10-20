@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+.main_container {
+  width: 606px;
+  height: 606px;
+  border: 2px solid green;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid violet;
+}
